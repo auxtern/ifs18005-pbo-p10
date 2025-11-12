@@ -12,7 +12,7 @@ import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.mockito.Mockito;
 
-public class TodoServiceTest {
+public class TodoServiceTests {
     @Test
     @DisplayName("Pengujian untuk service Todo")
     void testTodoService() throws Exception {
